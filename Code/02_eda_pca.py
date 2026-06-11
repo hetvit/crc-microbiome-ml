@@ -32,8 +32,7 @@ Usage:
 Notes:
     - PCA includes all 3 groups (CRC, Healthy, Adenomatous Polyps)
       to show full data structure per TA feedback
-    - Differential abundance uses CRC vs Healthy only (binary task)
-    - Literature references for key genera included in comments
+    - Differential abundance uses CRC vs Healthy only (binary task) because of lack of samples
 =============================================================
 """
 
