@@ -29,9 +29,7 @@ Outputs (to Data/processed/ and Results/figures/):
     - 01_confounding_summary.png : age/sex distribution by group
 
 Usage:
-    Run in Google Colab after mounting Google Drive.
-    Update BASE path to match your Google Drive folder location.
-    Run cells sequentially — this script must be run before
+    Run in Visual studio code. This script must be run before
     02_eda_pca.py and 03_models.py.
 =============================================================
 """
