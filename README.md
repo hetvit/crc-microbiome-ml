@@ -208,12 +208,12 @@ python3 -m pytest Tests/ -v
 
 | Member | Role |
 |---|---|
-| Hetvi Trivedi | EDA script, PCA analysis, models script, presentation, README |
-| Pascal Hayward | Preprocessing pipeline, CLR implementation |
-| Diksha Patel | Feature engineering, NMF analysis |
-| Sarah Quan | Model evaluation, cross-validation framework |
-| Louise Morr | Visualization, figures |
-| Khaled Al Duwaikat | Biological interpretation, report writing |
+| Hetvi Trivedi | Project setup, Google Colab/GitHub infrastructure, PCA analysis, machine learning models |
+| Pascal Hayward | Preprocessing pipeline, genus aggregation, CLR transformation |
+| Diksha Patel | NMF microbial community analysis, differential abundance testing |
+| Sarah Quan | Cross-validation framework, model evaluation, metrics |
+| Louise Morr | Preprocessing QC figures, visualization, figure generation|
+| Khaled Al Duwaikat | Unit testing, biological interpretation |
 
 ---
 
